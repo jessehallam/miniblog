@@ -1,0 +1,21 @@
+{
+  "name": "miniblog",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Jesse Colin Hallam <jesse.colin.hallam@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.16.0",
+    "@types/node": "^10.9.4",
+    "typescript": "^3.0.3"
+  },
+  "peerDependencies": {
+    "express": "*"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
